@@ -1,5 +1,6 @@
 # EPICODE_CAPSTONE
 
+La cartella include il file singolo di Power BI con il report, un "concept" in formato PDF con le dashboard e un file zip contenente i dati grezi e lavorati.
 
 I dati analizzati sono stati recuperati dal sito ufficiale della FAO, all'indirizzo https://www.fao.org/faostat/en/#data/FBS e rappresentano le distribuzioni alimentari per diverse nazioni e tipologie di prodotti. Le informazioni includono esportazioni, importazioni, produzione e consumo di diversi prodotti alimentari, suddivisi per paese e anno. Le unità di misura utilizzate sono espresse in tonnellate (“1000 t”).
 
