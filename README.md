@@ -4,6 +4,11 @@ La cartella include il file singolo di Power BI con il report, un "concept" in f
 
 
 
+# VIDEO
+
+Link: https://www.youtube.com/watch?v=-_s21rIbFlI
+
+
 
 # Sinossi
 
